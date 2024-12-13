@@ -5,6 +5,7 @@ Lightweight and Efficient AI-Generated Content Detection Using Fine-Tuned Autore
 ## Citation
 
 If you use this repository in your research, please cite it using the following BibTeX entry:
+
 @InProceedings{genai-detect:2025:task:AAIG,
 author = {Bhandarkar, Avanti and Wilson, Ronald and Woodard, Damon},
 title = "AAIG at GenAI Content Detection Task 1: Exploring Syntactically-Aware, Resource-Efficient Small Autoregressive Decoders for AI Content Detection",
